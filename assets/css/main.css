@@ -116,14 +116,16 @@ input, select, textarea {
 	}
 
 	#header a[href^="mailto:"] {
-    color: white; /* Same as <h1> */
-    border-bottom: none; /* Remove the dotted underline */
+    color: white !important;
+    text-decoration: none !important;
+    border-bottom: none !important;
     }
 
     #header a[href^="mailto:"]:hover {
-        color: white; /* Ensures hover does not change color */
-        border-bottom: none;
+        color: white !important;
+        border-bottom: none !important;
     }
+
 
 
 
