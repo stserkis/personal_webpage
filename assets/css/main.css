@@ -2018,7 +2018,10 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
-	}
+		color: inherit !important;
+        display: inline-block;
+        font-style: normal;
+        }
 
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
@@ -2038,6 +2041,7 @@ input, select, textarea {
 		}
 
 		.icon:before {
+		    text-decoration: none !important;
 			line-height: inherit;
 		}
 
@@ -2654,7 +2658,7 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 8em;
+			width: 8em !important;
 		}
 
 /* Footer */
