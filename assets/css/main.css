@@ -115,20 +115,6 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
-	#header a[href^="mailto:"] {
-    color: white !important;
-    text-decoration: none !important;
-    border-bottom: none !important;
-    }
-
-    #header a[href^="mailto:"]:hover {
-        color: #a9492f !important;
-        border-bottom: none !important;
-    }
-
-
-
-
 
 		a:hover {
 			border-bottom-color: transparent;
