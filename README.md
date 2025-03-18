@@ -1,26 +1,15 @@
-# Website Template by HTML5 UP
+## Website of Spyros Tserkis
 
-This is a **free HTML5 template**, called Strata, created by **HTML5 UP**.
+Welcome to my personal website! This site serves as a space where I share my personal work, such as papers, lectures, and scripts.
 
-## How to Use
+## License & Credits
 
-1. **Download the Template**  
-   - Get it from [HTML5 UP](https://html5up.net/strata).
+The design of this site is based on **Strata**, a free HTML5 template by [HTML5 UP](https://html5up.net), which I have
+customized to fit my content and style. The **content, writings, and modifications** are my own. The template is 
+available under the **Creative Commons Attribution 3.0 License** ([html5up.net/license](https://html5up.net/license)).
 
-2. **Extract & Open**  
-   - Unzip the downloaded package and open `index.html` in a web browser.
+## Connect with Me
 
-3. **Customize It**  
-   - Edit `index.html` for content changes.
-   - Modify `assets/css/main.css` for styling.
-   - Replace images in the `images` folder.
+If you’re interested in my work feel free to reach out!
 
-## License
-
-**Creative Commons Attribution 3.0 License**.<br>
-For full license details, visit: [html5up.net/license](https://html5up.net/license).
-
-## Credits
-
-- **Template Creator**: [AJ](https://twitter.com/ajlkn) (@ajlkn)  
-- **Source**: [HTML5 UP](https://html5up.net)
+---
