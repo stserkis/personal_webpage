@@ -2623,7 +2623,7 @@ input, select, textarea {
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 25% !important;
+		width: 35%;
 	}
 
 		#header > * {
@@ -2701,10 +2701,10 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		margin-left: 25% !important;
+		margin-left: 35%;
 		max-width: 54em;
 		padding: 8em 4em 4em 4em;
-		width: calc(100% - 25%) !important;
+		width: calc(100% - 35%);
 	}
 
 		#main > section {
