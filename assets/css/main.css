@@ -122,9 +122,10 @@ input, select, textarea {
     }
 
     #header a[href^="mailto:"]:hover {
-        color: white !important;
+        color: #a9492f !important;
         border-bottom: none !important;
     }
+
 
 
 
